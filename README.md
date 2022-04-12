@@ -6,7 +6,7 @@ Model 1
 - crawling_253_images
 	<Dataset info>
 	web-crawled images(crane, module, crane+module) for train, validation sets
-	AJ ho vid for test set
+	/AJ ho vid for test set
 	train : validation = 9 : 1
 	train: 227 images
 	validation: 26 images
